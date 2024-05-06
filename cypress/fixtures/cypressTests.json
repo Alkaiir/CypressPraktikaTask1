@@ -4,9 +4,8 @@
   "login_student": "testerStudent",
   "login_admin": "testerAdmin",
   "login_employer": "testerEmployer",
-  "login_insitition": "testerInstitution",
+  "login_institution": "testerInstitution",
   "password": "Password1",
   "non_existent_loin": "nonelogin123",
   "non_existent_password": "nonepassword123"
-
 }
