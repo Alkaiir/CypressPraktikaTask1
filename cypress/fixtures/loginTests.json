@@ -6,6 +6,6 @@
   "login_employer": "testerEmployer",
   "login_institution": "testerInstitution",
   "password": "Password1",
-  "non_existent_loin": "nonelogin123",
-  "non_existent_password": "nonepassword123"
+  "none_existent_loin": "nonelogin123",
+  "none_existent_password": "nonepassword123"
 }

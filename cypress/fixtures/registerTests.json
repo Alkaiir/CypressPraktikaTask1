@@ -1,8 +1,19 @@
 {
-  "login": "Alkaiire",
-  "email": "ivv.ven20@gmail.com",
+  "login": "Alkaiireee",
+  "email": "ivv.ven2030@gmail.com",
   "password": "QWEasd123",
   "surname": "Венцов",
   "name": "Иван",
-  "patronymic": "Николаевич"
+  "patronymic": "Николаевич",
+  "none_existent_login_ru": "абвгдежз",
+  "none_existent_login_space": "Alka iir",
+  "none_existent_email": "qwe@asd",
+  "none_existent_password": "QWEasd123",
+  "none_existent_password_quanity": "Qa1",
+  "none_existent_password_register": "qweasd123",
+  "none_existent_password_string": "QWEasd",
+  "none_existent_password_space": "QWE asd 1",
+  "none_existent_surname_eu": "Vencov",
+  "none_existent_name_eu": "Ivan",
+  "none_existent_patronymic_eu": "Nicolaevich"
 }
